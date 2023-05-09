@@ -20,33 +20,6 @@
   </url>
   
   <url>
-    <loc>https://blog.r1ng13.top/life/games/index.html</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.r1ng13.top/life/movies/index.html</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.r1ng13.top/life/music/index.html</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.r1ng13.top/personal/about/index.html</loc>
     
     <lastmod>2023-05-09</lastmod>
@@ -183,6 +156,33 @@
   
   <url>
     <loc>https://blog.r1ng13.top/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.r1ng13.top/life/games/index.html</loc>
+    
+    <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.r1ng13.top/life/movies/index.html</loc>
+    
+    <lastmod>2023-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.r1ng13.top/life/music/index.html</loc>
     
     <lastmod>2023-05-09</lastmod>
     
